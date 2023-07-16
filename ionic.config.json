@@ -1,0 +1,7 @@
+{
+  "name": "looking-menu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
